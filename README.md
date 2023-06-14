@@ -19,11 +19,15 @@
 
 - 여러개의 딕셔너리를 한번에 넣을 수 있습니다.
 
+## pypi Link
+
+https://pypi.org/project/Python-dictionaries-deep-merge/
+
 ## 다운로드 방법
 
 ```bash
 pip3 install git+https://github.com/hbcha0916/Python_dictionaries_deep_merge.git
-
+#or
 pip3 install Python-dictionaries-deep-merge==1.0
 ```
 
