@@ -23,6 +23,8 @@
 
 ```bash
 pip3 install git+https://github.com/hbcha0916/Python_dictionaries_deep_merge.git
+
+pip3 install Python-dictionaries-deep-merge==1.0
 ```
 
 ## 사용 방법(예시 코드)
