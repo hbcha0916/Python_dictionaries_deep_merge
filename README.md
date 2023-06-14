@@ -28,7 +28,7 @@ https://pypi.org/project/Python-dictionaries-deep-merge/
 ```bash
 pip3 install git+https://github.com/hbcha0916/Python_dictionaries_deep_merge.git
 #or
-pip install Python-dictionaries-deep-merge
+pip3 install Python-dictionaries-deep-merge
 ```
 
 ## 사용 방법(예시 코드)
