@@ -19,6 +19,12 @@
 
 - 여러개의 딕셔너리를 한번에 넣을 수 있습니다.
 
+## 다운로드 방법
+
+```bash
+pip3 install git+https://github.com/hbcha0916/Python_dictionaries_deep_merge.git
+```
+
 ## 사용 방법(예시 코드)
 
 ```python
@@ -34,7 +40,7 @@ print(merged_dict.getResult())
 
 결과
 
-```json
+```python
 {'hi': 'hello', 'array': [1, 2, 3, 4, 5, 3, 7, 8, 9], 'new': 'world', 'newdict': {'Indict': 1, 'Indict2': 2, 'newnewDict': {'InIndict': 'wow', 'InIndict2': 'wow'}, 'Indict3': 3, 'Indict4': 4}, 'array2': ['a', 'b', 'c', 'd', 'a', 'b'], 'this': 'test'}
 ```
 
